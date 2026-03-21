@@ -5,6 +5,11 @@ Spring Boot User Management Using REST API is a Simple , Lightweight RESTful App
 * Maven
 * PostgreSQL
 * Postman (for testing APIs)
+# Spring Starter 
+*Spring Web
+*Spring Data JPA
+*PostgreSQL
+*Spring Boot Dev Tool
 
 # Running the Application Locally
 -Using IDE
